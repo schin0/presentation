@@ -1,0 +1,75 @@
+.principal {
+  width: auto;
+  margin: 1vh 0vw 5vh 0vw;
+  background-color: #2b2a2a;
+  .title {
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+  }
+}
+
+.conteudo {
+  background-color: #3b3a3a;
+  div {
+    display: flex;
+    justify-content: center;
+  } img {
+    width: 200px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px black;
+    margin-bottom: 5vh;
+  }
+  img:hover {
+    box-shadow: 1px 1px 10px #c900c9;
+  }
+  .content {
+    font-size: 1.2rem;
+    align-items: center;
+    .content2 {
+      display: flex;
+      justify-content: center;
+      p {
+        padding-top: 3px;
+      }
+    }
+    .content2:hover {
+      color: #ec00ec;
+    }
+    a {
+      margin: 0vw 1vh 0vw 0vh;
+    }
+  }
+}
+
+.informacoes {
+  display: flex;
+  justify-content: space-around;
+}
+
+.conhecimentos {
+  width: 16vw;
+  mat-panel-title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+}
+
+.idade {
+  width: 11vw;
+  mat-panel-title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+}
+
+.escolaridade {
+  width: 15vw;
+  mat-panel-title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+}

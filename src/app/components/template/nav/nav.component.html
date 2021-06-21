@@ -1,0 +1,27 @@
+<mat-sidenav-container class="container">
+  <mat-sidenav class="sidenav" mode="side" opened fixedInViewport="true" fixedTopGap="64" fixedBottomGap="35">
+    <mat-nav-list>
+      <a mat-list-item class="purple" routerLink="/">
+        <i class="material-icons">
+          account_circle
+        </i>
+        Apresentação
+      </a>
+      <a mat-list-item routerLink="/gostos">
+        <i class="material-icons alignMidle">
+          thumb_up
+        </i>
+        Gostos
+      </a>
+      <a mat-list-item routerLink="/rede">
+        <i class="material-icons alignMidle">
+          public
+        </i>
+        Redes Sociais
+      </a>
+    </mat-nav-list>
+  </mat-sidenav>
+  <mat-sidenav-content class="content">
+    <router-outlet></router-outlet>
+  </mat-sidenav-content>
+</mat-sidenav-container>

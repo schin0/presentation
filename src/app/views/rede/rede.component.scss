@@ -1,0 +1,38 @@
+.principal {
+  width: auto;
+  margin: 1vh 0vw 5vh 0vw;
+  background-color: #2b2a2a;
+  .title {
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+  }
+}
+
+.conteudo {
+  background-color: #3b3a3a;
+  div {
+    display: flex;
+    justify-content: center;
+  } 
+  .content {
+    font-size: 1.2rem;
+    align-items: center;
+    
+    a {
+      margin: 0vw 1vh 0vw 0vh;
+    }
+  }
+  .imagens {
+    display: flex;
+    justify-content: space-around;
+    img {
+      width: 50px;
+      filter: invert(90%);
+    }
+    img:hover {
+      filter: invert(0%);
+      transition: all 0.5s ease-in;
+    }
+  }
+}

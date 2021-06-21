@@ -1,0 +1,25 @@
+<svg id="Camada_24" data-name="Camada 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2560" height="2560" viewBox="0 0 2560 2560">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="2548.78" y1="24.053" x2="18.031" y2="2517.447" gradientUnits="userSpaceOnUse">
+      <stop offset="0.055" stop-color="#ff00c6"/>
+      <stop offset="1.835" stop-color="#9c0078"/>
+      <stop offset="3.615" stop-color="#440034"/>
+    </linearGradient>
+  </defs>
+  <path id="Camada_3" data-name="Camada 3" class="cls-1" d="M1283.41,3.989c698.38,0,1265.38,567.615,1265.38,1266.761s-567,1266.75-1265.38,1266.75S18.037,1969.89,18.037,1270.75,585.033,3.989,1283.41,3.989Z"/>
+  <path id="Camada_21" data-name="Camada 21" class="cls-2" d="M990.554,544.289l0,0.032-0.027.01-0.014.019v-0.014c-296.039,114.164-506.3,401.526-506.3,737.614,0,436.14,354.094,790.23,790.236,790.23,382.81,0,702.4-272.78,774.85-634.4l-0.06.02,0.07-.07,0.01-.07,0.07-.02,176.92-181.76-16.64,128.63c-51.17,471.05-450.66,838.19-935.22,838.19-519.217,0-940.757-421.54-940.757-940.75,0-427.354,285.565-788.533,676.117-902.964l125.13-41.69Z"/>
+  <path id="Camada_23" data-name="Camada 23" class="cls-2" d="M2161.66,382.761L1632.69,1110.93l-397.31,203.51,201.2-398.491Z"/>
+</svg>

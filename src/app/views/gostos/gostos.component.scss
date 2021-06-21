@@ -1,0 +1,57 @@
+.principal {
+  width: auto;
+  margin: 1vh 0vw 5vh 0vw;
+  background-color: #2b2a2a;
+  .title {
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+  }
+}
+
+.conteudo {
+  background-color: #3b3a3a;
+  div {
+    display: flex;
+    justify-content: center;
+  } 
+  .content {
+    font-size: 1.2rem;
+    align-items: center;
+    a {
+      margin: 0vw 1vh 0vw 0vh;
+    }
+  }
+}
+
+.informacoes {
+  display: flex;
+  justify-content: space-around;
+}
+
+.programacao {
+  width: 14vw;
+  mat-panel-title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+}
+
+.jogos {
+  width: 11vw;
+  mat-panel-title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+}
+
+.filmes {
+  width: 12vw;
+  mat-panel-title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+}
